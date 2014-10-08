@@ -1,0 +1,5 @@
+Links
+* Troy Hunt's great article on REST Versioning * 
+http://bri.gd/xe14threst
+* 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
+http://bri.gd/xe10dday
